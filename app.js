@@ -4,10 +4,10 @@ const today = moment();
 console.log(today.format());
 
 console.log(moment("2020-01-01", "YYYY-MM-DD").isValid()); // true
-console.log(moment("not-a-date", "YYYY-MM-DD").isValid()); // false
+console.log(moment("not-a-datesfdgfgdfgdfgdfgdgf", "YYYY-MM-DD").isValid()); // false
 
 console.log(
-    moment("2019 was a great year because I got married", "YYYY-MM-DD").isValid()
+    moment("2019 was a great year because I got marriedsdfdsfs", "YYYY-MM-DD").isValid()
   );
   // Returns true because 2019 matches YYYY
 
