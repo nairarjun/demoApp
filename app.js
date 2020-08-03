@@ -15,7 +15,3 @@ moment().add(7, 'days');    // adds 7 days to current date
 moment().add(7, 'months');  // adds 7 months to current date
 moment().add(7, 'years');   // adds 7 years to current date
 
-
-moment().subtract(7, 'days');   // subtracts 7 days to current date
-moment().subtract(7, 'months'); // subtracts 7 months to current date
-moment().subtract(7, 'years');  // subtracts 7 years to current date
