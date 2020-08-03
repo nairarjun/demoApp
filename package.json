@@ -1,0 +1,22 @@
+{
+  "name": "demoapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nairarjun/demoApp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nairarjun/demoApp/issues"
+  },
+  "homepage": "https://github.com/nairarjun/demoApp#readme",
+  "dependencies": {
+    "moment": "^2.27.0"
+  }
+}
